@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "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"
+openai.api_key = "SSKKKKKKK"
 
 def get_answer(text):
     messages = [
