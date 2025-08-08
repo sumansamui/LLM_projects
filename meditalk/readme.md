@@ -1,8 +1,8 @@
-# 🩺 MediTalk – AI-Powered Medical Assistant Chatbot
+#  MediTalk – AI-Powered Medical Assistant Chatbot
 
 **MediTalk** is a multilingual AI-powered chatbot designed to answer basic medical questions in natural language. It uses **LLM models served via Ollama**, supports **language translation**, and offers a simple **Streamlit web interface**. Users can ask questions in their native language and get translated, medically relevant answers.
 
-> ⚠️ **Disclaimer**: MediTalk is not a substitute for professional medical advice. Always consult a licensed healthcare provider.
+> ⚠️ **Disclaimer**: MediTalk is not a substitute for professional medical advice. It is just a simple chatbot. Always consult a licensed healthcare provider.
 
 ---
 
@@ -14,12 +14,6 @@
 - 📜 Chat history display
 - 🧹 Clear history button
 - 🎨 Lottie animation-enhanced UI
-
----
-
-## 🖼️ Demo Screenshot
-
-![screenshot](assets/meditalk_demo.png) <!-- optional: add your screenshot -->
 
 ---
 
